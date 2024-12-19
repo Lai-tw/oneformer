@@ -1,4 +1,5 @@
 OneFormer 模型影像分割
+
 OneFormer 模型進行語義分割、實例分割和全景分割。它支援多個知名數據集，包括 ADE20K、COCO 和 Cityscapes
 環境配置
 1. clone OneFormer 項目並安裝依賴
